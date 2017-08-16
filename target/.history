@@ -1,0 +1,42 @@
+assembly
+clean
+sbt package
+package
+publish-local
+publishLocal
+clean
+publishLocal
+package
+help
+package
+publishLocal
+package
+clean
+package
+publishLocal
+reload
+publishLocal
+reload
+package
+publishLocal
+assembly
+compile
+publishLocal
+update
+inspect
+inspect uses log4j
+inspect uses sLog
+publishLocal
+reload
+publishLocal
+reload
+publishLocal
+clean
+reload
+publishLocal
+clean
+reload
+publishLocal
+package
+reload
+package
